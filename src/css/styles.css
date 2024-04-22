@@ -23,7 +23,7 @@ footer p {
 }
 
 body {
-  background-image: url(/src/img/bg.jpg);
+  background-image: url(src/img/bg.jpg);
   background-position: top;
   background-size: cover;
   font-size: 1.4rem;
@@ -162,7 +162,7 @@ h1 {
 }
 
 .about-content {
-  background-image: url(/src/img/bg-3.jpg);
+  background-image: url(src/img/bg-3.jpg);
   background-size: cover;
   background-position: right;
   object-fit: cover;
@@ -193,7 +193,7 @@ h1 {
   margin-top: 10rem;
   height: 60vh;
   background-repeat: no-repeat;
-  background-image: url(/src/img/bg-2.jpg);
+  background-image: url(src/img/bg-2.jpg);
   background-size: cover;
   background-position: center;
   object-fit: cover;
@@ -214,7 +214,7 @@ h1 {
 .explore-items {
   margin: 2rem;
   width: 300px;
-  background-image: url(/src/img/bg-2.jpg);
+  background-image: url(src/img/bg-2.jpg);
   background-size: cover;
   background-position: right;
   object-fit: cover;
@@ -263,7 +263,7 @@ h1 {
   padding: 0.5rem 2rem;
   border-radius: 10px;
   box-shadow: 0 20px 20px rgba(0, 0, 0, 0.3);
-  background-image: url(/src/img/bg-3.jpg);
+  background-image: url(src/img/bg-3.jpg);
   opacity: 0;
 }
 .icons .bi {
@@ -281,7 +281,7 @@ h1 {
 
 
 .signup {
-  background-image: url(/src/img/bg-4.jpg);
+  background-image: url(src/img/bg-4.jpg);
   background-size: fill;
   background-position: center;
   object-fit: cover;
@@ -353,7 +353,7 @@ input[type="email"]::placeholder {
 }
 
 footer {
-  background-image: url(/src/img/bg-3.jpg);
+  background-image: url(src/img/bg-3.jpg);
   color: var(--dark-blue);
   text-align: center;
   padding: 2rem;
