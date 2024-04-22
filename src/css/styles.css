@@ -23,7 +23,7 @@ footer p {
 }
 
 body {
-  background-image: url(src/img/bg.jpg);
+  background-image: url(main/src/img/bg.jpg);
   background-position: top;
   background-size: cover;
   font-size: 1.4rem;
